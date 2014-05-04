@@ -52,4 +52,4 @@ app.get('/', function(req, res) {
 })
 
 // start the http server
-app.listen(port)
+app.listen(process.env.VCAP_APP_PORT || port);
