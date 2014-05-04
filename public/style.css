@@ -1,0 +1,22 @@
+/* Stylesheet for Hello-CF 				*/ 
+div.page {
+  width: 1060px;
+  height: 740px;
+  padding: 100px;
+  border: 0px solid gray;
+  display: table-cell;
+  text-align: center;
+  vertical-align: top;
+}
+div.hello {
+  font-family: "Arial";
+  font-size: 90px;
+  border: 0px solid gray;
+  color: #000000;
+}
+div.ip {
+  font-family: "Arial";
+  font-size: 10px;
+  border: 0px solid gray;
+  color: #CCCCCC;
+}
