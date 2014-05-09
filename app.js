@@ -11,7 +11,7 @@ var os = require("os");
 var express = require('express');
 var port = '8800';
 var title = "Hello Cloud Foundry";
-var hellomsg = "Hello CF from SBUX";
+var hellomsg = "Hello CF";
 var myipaddr = "BLANK";
 
 // start daemon process
